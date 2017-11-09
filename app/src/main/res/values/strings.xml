@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FollowSpace</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">EokFgFmSf0TnsK63IeJMgtJ7W</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">gGthtkVJOZUgnUuODYoH7HKlzTDioR2OGURaMwRr7Xvs8svTFO</string>
+</resources>
